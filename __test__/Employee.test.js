@@ -2,7 +2,6 @@ const Employee = require("../lib/Employee");
 
 // parent class
 
-//name
 test("creates an employee object", () => {
   const employee = new Employee("name", "id", "email");
 
