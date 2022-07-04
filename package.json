@@ -1,0 +1,29 @@
+{
+  "name": "10.teamy",
+  "version": "1.0.0",
+  "description": "Lesson 10 Challenge",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlottearichard/9.Node.git"
+  },
+  "keywords": [
+    "Teams"
+  ],
+  "author": "Charlotte Ri'Chard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlottearichard/9.Node/issues"
+  },
+  "homepage": "https://github.com/charlottearichard/9.Node#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0",
+    "jest": "^28.1.2"
+  }
+}
