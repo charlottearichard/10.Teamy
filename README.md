@@ -11,13 +11,13 @@
 <p> ✅ Create constructors for each test. Employee is presented as parent.</p>
 <p> ✅ Run tests & PRAY they pass</p>
 <p> ✅ Create prompts for Manager</p>
-<p> ⬜ Create prompts for Intern </p>
-<p> ⬜ Create prompts for Engineer  </p>
-<p> ⬜ Create prompts for Employee  </p>
+<p> ✅ Create prompts for Intern </p>
+<p> ✅ Create prompts for Engineer  </p>
 <p> ⬜ Make html template in teamytemp.js </p>
 <p> ⬜ Write function that uses template and user data to generate page </p>
 
 
-
+## Video 
+<p>https://youtu.be/JPDuwd0QkL4</p>
 
 
